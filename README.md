@@ -16,3 +16,4 @@ Segmentation, more specifically psychographic and behavioral segmentation, is co
 
 ## Example
 
+![](Segment_map.jpg)
